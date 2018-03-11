@@ -15,6 +15,7 @@ The following table contains links to open source city building games and relate
 | Konstruisto | [website](http://konstruisto.com/) | [source](https://github.com/kantoniak/konstruisto) |
 | KotCity |  | [source](https://github.com/kotcity/kotcity) |
 | LinCity-NG | [website](http://lincity.sourceforge.net/) | [source](https://github.com/lincity-ng/lincity-ng) |
+| Micropolis | | [source](https://github.com/SimHacker/micropolis) |
 | micropolisJS | [website](http://www.graememcc.co.uk/micropolisJS/) | [source](https://github.com/graememcc/micropolisJS) |
 | OpenCity | [website](http://www.opencity.info/) | |
 | OpenSC2K |  | [source](https://github.com/rage8885/OpenSC2K) |
