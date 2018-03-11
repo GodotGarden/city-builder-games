@@ -26,4 +26,5 @@ The following table contains links to open source city building games and relate
 # Resources
 - [Creating a City Building Game with SFML](http://www.binpress.com/tutorial/creating-a-city-building-game-with-sfml/137) - [source](https://github.com/dbMansfield/citybuilder)
 - [Designing game analytics for a city-builder game](pub.uta.fi/bitstream/handle/10024/97480/GRADU-1435136851.pdf)
-- [vectiler: A 3d model terrain and city builder and exporter](http://karim.naaji.fr/projects/vectiler) - [source](https://github.com/karimnaaji/vectiler) 
+- [vectiler: A 3d model terrain and city builder and exporter](http://karim.naaji.fr/projects/vectiler) - [source](https://github.com/karimnaaji/vectiler)
+- Freely licensed [City-simulation (building) game assets](https://opengameart.org/content/city-simulation) on OpenGameArt.org
